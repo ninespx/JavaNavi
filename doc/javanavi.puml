@@ -8,9 +8,33 @@ title 128Navi
 *** 操作系统
 *** 网络
 *** Java语言
-*** Spring
+*** 数据结构和算法
+*** 框架
+**** Spring
+**** 框架
 ** 广度
+*** 分布式微服务
+*** 秒杀方案
+*** 高可用高性能方案
+*** 云原生
+*** 常用组件
+**** RocketMQ
+**** kafka
+**** zookeeper
+**** hadoop
+**** hbase
+**** spark
+**** flink
 ** 深度
+*** MySQL
+*** elasticsearch
+**** 集群
+**** 节点
+**** 系统
+**** 索引
+**** 客户端
+**** 读写
+**** 相关度
 
 
 @endmindmap
