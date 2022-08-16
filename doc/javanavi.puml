@@ -5,36 +5,31 @@ title 128Navi
 
 * <&flag>128Navi
 ** 底层
-*** 操作系统
-*** 网络
-*** Java语言
-*** 数据结构和算法
+*** 操作系统 10
+*** 网络 5
+*** Java语言 30
+*** 数据结构和算法 10
 *** 框架
-**** Spring
-**** 框架
+**** Spring 10
+**** Mybatis 5
 ** 广度
-*** 分布式微服务
-*** 秒杀方案
-*** 高可用高性能方案
-*** 云原生
+*** 分布式微服务 2
+*** 秒杀方案 2
+*** 高可用高性能方案 2
+*** 云原生 2
 *** 常用组件
-**** RocketMQ
-**** kafka
-**** zookeeper
-**** hadoop
-**** hbase
-**** spark
-**** flink
+**** RocketMQ 3
+**** kafka 2
+**** zookeeper 1
+**** dubbo 5
+**** hadoop 2
+**** hbase 2
+**** spark 2
+**** flink 2
+**** clickhouse 1
 ** 深度
-*** MySQL
-*** elasticsearch
-**** 集群
-**** 节点
-**** 系统
-**** 索引
-**** 客户端
-**** 读写
-**** 相关度
+*** MySQL 10
+*** elasticsearch 20
 
 
 @endmindmap
