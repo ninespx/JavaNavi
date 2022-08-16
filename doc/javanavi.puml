@@ -1,0 +1,16 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+title 128Navi
+
+* <&flag>128Navi
+** 底层
+*** 操作系统
+*** 网络
+*** Java语言
+*** Spring
+** 广度
+** 深度
+
+
+@endmindmap
